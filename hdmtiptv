@@ -5,12 +5,6 @@ http://5.189.187.55:8000/live/Fadil/skype/2802.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/2801.m3u8
 #EXTINF:-1,RO: DigiSport 1
 http://5.189.187.55:8000/live/Fadil/skype/2800.m3u8
-#EXTINF:-1,IT: Premium Sport 1 HD
-http://5.189.187.55:8000/live/Fadil/skype/1494.m3u8
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://5.189.187.55:8000/live/Fadil/skype/2207.m3u8
-#EXTINF:-1,IT: Premium Joi
-http://5.189.187.55:8000/live/Fadil/skype/364.m3u8
 #EXTINF:-1,IT: Premium EuroSport 2
 http://5.189.187.55:8000/live/Fadil/skype/2132.m3u8
 #EXTINF:-1,IT: Premium EuroSport 1 HD
@@ -161,35 +155,6 @@ http://5.189.187.55:8000/live/Fadil/skype/205.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/208.m3u8
 #EXTINF:-1,AL: Sport News HD
 http://5.189.187.55:8000/live/Fadil/skype/1919.m3u8
-
-#EXTINF:-1,TN_TUNISIE-NAT1
-http://pro.smartgotv.com:8005/live/123454321/123454321/1791.m3u8
-#EXTINF:-1,TN_TUNISIE-NAT2
-http://pro.smartgotv.com:8005/live/123454321/123454321/1790.m3u8
-#EXTINF:-1,TN_ElHIWAR-ETTOUNSI
-http://pro.smartgotv.com:8005/live/123454321/123454321/1789.m3u8
-#EXTINF:-1,TN_NESSMA-Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1786.m3u8
-#EXTINF:-1,TN_Hannibal-Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1785.m3u8
-#EXTINF:-1,TN_ATTESSIA_Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1788.m3u8
-#EXTINF:-1,TN_SAHEL-TV
-http://pro.smartgotv.com:8005/live/123454321/123454321/7846.m3u8
-#EXTINF:-1,TN_M-TUNISIA
-http://pro.smartgotv.com:8005/live/123454321/123454321/1779.m3u8
-#EXTINF:-1,TN_TUNESNA
-http://pro.smartgotv.com:8005/live/123454321/123454321/1787.m3u8
-#EXTINF:-1,TN_Carthage-plus
-http://pro.smartgotv.com:8005/live/123454321/123454321/1781.m3u8
-#EXTINF:-1,TN_TALVZA-Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1780.m3u8
-#EXTINF:-1,TN_ZiTOUNA_Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1782.m3u8
-#EXTINF:-1,TN_Aljanoubia-Tv
-http://pro.smartgotv.com:8005/live/123454321/123454321/1784.m3u8
- 2 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/307.m3u8
 #EXTINF:-1,FR: Beinsport 3 HD
 http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/308.m3u8
 #EXTINF:-1,beIN Movies 1
@@ -236,13 +201,6 @@ http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1765.m3u8
 http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1543.m3u8
 #EXTINF:-1,Beinsport News
 http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1541.m3u8
-#EXTINF:-1,BeinMovies 1 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/271.m3u8
-#EXTINF:-1,BeinMovies 2 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/272.m3u8
-#EXTINF:-1,BeinMovies 3 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1549.m3u8
-#EXTINF:-1,BeinMovies 4 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2143.martgotv.com:8005/live/123454321/123454321/1780.m3u8
+
 
 
