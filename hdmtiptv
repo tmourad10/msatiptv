@@ -47,30 +47,30 @@ http://217.23.15.183:8789/live/mimoun/123456/2003.m3u8
 http://217.23.15.183:8789/live/mimoun/123456/885.m3u8
 #EXTINF:-1,FR: SFR SPORT 1 HD
 http://178.132.4.106:8000/live/wMdDcD0WE6/Mz9OWJvI75/696.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",AR: Bein Sporm3u8 9 HD
+ #EXTINF:-1,AR Bein Sport 9 HD
 http://5.189.187.55:8000/live/Fadil/skype/768.m3u8
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",AR: Bein Sporm3u8 8 HD
+#EXTINF:-1, Bein Sport 8 HD
 http://5.189.187.55:8000/live/Fadil/skype/769.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",AR: Bein Sporm3u8 7 HD
+#EXTINF:-1, Bein Sport 7 HD
 http://5.189.187.55:8000/live/Fadil/skype/770.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",AR: Bein Sporm3u8 6 HD
+#EXTINF:-1, Bein Sport 6 HD
 http://5.189.187.55:8000/live/Fadil/skype/771.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",AR: Bein Sporm3u8 5 HD
+#EXTINF:-1, Bein Sport 5 HD
 http://5.189.187.55:8000/live/Fadil/skype/772.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",AR: Bein Sporm3u8 4 HD
+#EXTINF:-1, Bein Sport 4 HD
 http://5.189.187.55:8000/live/Fadil/skype/773.m3u8
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",AR: Bein Sporm3u8 3 HD
+#EXTINF:-1, Bein Sport 3 HD
 http://5.189.187.55:8000/live/Fadil/skype/774.m3u8
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",AR: Bein Sporm3u8 2 HD
+#EXTINF:-1,Bein Sport 2 HD
 http://5.189.187.55:8000/live/Fadil/skype/775.m3u8
-#EXTINF:0 tvg-id="bein12hd.jsc" group-title="Channels",AR: Bein Sporm3u8 12 HD
+#EXTINF:-1, Bein Sport 12 HD
 http://5.189.187.55:8000/live/Fadil/skype/776.m3u8
-#EXTINF:0 tvg-id="bein11hd.jsc" group-title="Channels",AR: Bein Sporm3u8 11 HD
+#EXTINF:,AR: Bein Sport 11 HD
 http://5.189.187.55:8000/live/Fadil/skype/777.m3u8
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",AR: Bein Sporm3u8 10 HD
+#EXTINF::-1,AR: Bein Sport 10 HD
 http://5.189.187.55:8000/live/Fadil/skype/778.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",AR: Bein Sporm3u8 1 HD
+#EXTINF:-1, Bein Sport 1 HD
 http://5.189.187.55:8000/live/Fadil/skype/779.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",AR: Bein Sporm3u8 1
+#EXTINF:-1, Bein Sport 1
 http://5.189.187.55:8000/live/Fadil/skype/2470.m3u8
+
