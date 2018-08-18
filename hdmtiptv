@@ -826,5 +826,23 @@ http://regnummi.mibox.live:980/live/afonso/afonso/6301.m3u8
 http://regnummi.mibox.live:980/live/afonso/afonso/6302.m3u8
 #EXTINF:-1,SFRSport5
 http://regnummi.mibox.live:980/live/afonso/afonso/6303.m3u8
+#EXTINF:-1, Bein Sport 1 HD
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/761.m3u8
+#EXTINF:-1, Bein Sport 2 HD,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/779.m3u8
+#EXTINF:-1, Bein Sport 3 HD,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/780.m3u8
+#EXTINF:-1, Bein Sport 4 HD,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/781.m3u8
+#EXTINF:-1, Bein Sport 5 HD,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/782.m3u8
+#EXTINF:-1, Bein Sport 6,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/1166.m3u8
+#EXTINF:-1, Bein Sport 7,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/1167.m3u8
+#EXTINF:-1, Bein Sport 8,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/1168.m3u8
+#EXTINF:-1, Bein Sport 9,
+http://37.59.17.203:3890/live/streamer-local/4csd1UQLb3/1169.m3u8
 
 
