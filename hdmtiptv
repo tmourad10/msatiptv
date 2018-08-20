@@ -393,6 +393,32 @@ http://sw.fannan.se:8000/live/zizo18040/54544452/7888.m3u8
 http://sw.fannan.se:8000/live/zizo18040/54544452/7903.m3u8
 #EXTINF:-1,NL: Ziggo Sport Golf
 http://sw.fannan.se:8000/live/zizo18040/54544452/7887.m3u8
+#EXTINF: -1,BEINSPORT HD 1 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1774.m3u8
+#EXTINF: -1,BEINSPORT HD 2 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1775.m3u8
+#EXTINF: -1,BEINSPORT HD 3
+ http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1776.m3u8
+#EXTINF: -1,BEINSPORT HD 4 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1777.m3u8
+#EXTINF: -1,BEINSPORT HD 5 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1778.m3u8
+#EXTINF: -1,BEINSPORT HD 6
+ http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1779.m3u8
+#EXTINF: -1,BEINSPORT HD 7 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1780.m3u8
+#EXTINF: -1,BEINSPORT HD 8 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1781.m3u8
+#EXTINF: -1,BEINSPORT HD 9
+ http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1782.m3u8
+#EXTINF: -1,BEINSPORT HD 10 
+http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/1783.m3u8
+
+
+
+
+
+
 
 
 
