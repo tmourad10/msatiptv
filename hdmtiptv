@@ -1,5 +1,5 @@
 #EXTM3U
-# 1,beIN_SPORTS_1 FR
+#EXTINF:-1,beIN_SPORTS_1 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/4038.m3u8
 #EXTINF:-1,beIN_SPORTS_2 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/4037.m3u8
