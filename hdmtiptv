@@ -1,77 +1,52 @@
-#EXT3MU
-
+#EXTM3U
 # 1,beIN_SPORTS_1 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/4038.m3u8
-
 #EXTINF:-1,beIN_SPORTS_2 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/4037.m3u8
-
 #EXTINF:-1,beIN_SPORM3U8_3 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/4036.m3u8
-
 #EXTINF:-1,EQUIDIA_LIVE
 http://pro.smartgotv.com:8005/live/mondher/mondher/3608.m3u8
-
 #EXTINF:-1,EUROSPORT_1 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/3605.m3u8
-
 #EXTINF:-1,EUROSPORT_2 FR
 http://pro.smartgotv.com:8005/live/mondher/mondher/3606.m3u8
-
 #EXTINF:-1,EXTREME_SPORTS
 http://pro.smartgotv.com:8005/live/mondher/mondher/3604.m3u8
-
 #EXTINF:-1,GOLF+
 http://pro.smartgotv.com:8005/live/mondher/mondher/3596.m3u8
-
 #EXTINF:-1,GOLF_CHANNEL
 http://pro.smartgotv.com:8005/live/mondher/mondher/3595.m3u8
-
 #EXTINF:-1,INFOSPORT+
 http://pro.smartgotv.com:8005/live/mondher/mondher/3591.m3u8
-
 #EXTINF:-1,L'EQUIPE_21
 http://pro.smartgotv.com:8005/live/mondher/mondher/3590.m3u8
-
 #EXTINF:-1,RMC SPORT 1
 http://pro.smartgotv.com:8005/live/mondher/mondher/3562.m3u8
-
 #EXTINF:-1,RMC SPORT 2
 http://pro.smartgotv.com:8005/live/mondher/mondher/3561.m3u8
-
 #EXTINF:-1,RMC SPORT 3
 http://pro.smartgotv.com:8005/live/mondher/mondher/3560.m3u8
-
 #EXTINF:-1,RMC SPORT 5
 http://pro.smartgotv.com:8005/live/mondher/mondher/3559.m3u8
-
 #EXTINF:-1,CANAL+_SPORT_HD
 http://pro.smartgotv.com:8005/live/mondher/mondher/3634.m3u8
-
 #EXTINF:-1,FOOT+
 http://pro.smartgotv.com:8005/live/mondher/mondher/1120.m3u8
-
 #EXTINF:-1,BFM_SPORT
 http://pro.smartgotv.com:8005/live/mondher/mondher/2225.m3u8
-
 #EXTINF:-1,L.EQUIPE21_SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/1112.m3u8
-
 #EXTINF:-1,EQUIDIA_LIVE_SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/1121.m3u8
-
 #EXTINF:-1,RMC SPORT 1 SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/6596.m3u8
-
 #EXTINF:-1,RMC SPORT 2 SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/6597.m3u8
-
 #EXTINF:-1,RMC SPORT 3 SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/6598.m3u8
-
 #EXTINF:-1,BeIN_SPORTS_1 FR SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/684.m3u8
-
 #EXTINF:-1,BeIN_SPORTS_2 FR SD
 http://pro.smartgotv.com:8005/live/mondher/mondher/683.m3u8
 
