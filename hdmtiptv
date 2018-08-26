@@ -1,623 +1,342 @@
 #EXTM3U
-#EXTINF:-1,beIN_SPORTS_1 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4038.m3u8
-#EXTINF:-1,beIN_SPORTS_2 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4037.m3u8
-#EXTINF:-1,beIN_SPORM3U8_3 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4036.m3u8
-#EXTINF:-1,EQUIDIA_LIVE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3608.m3u8
-#EXTINF:-1,EUROSPORT_1 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3605.m3u8
-#EXTINF:-1,EUROSPORT_2 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3606.m3u8
-#EXTINF:-1,EXTREME_SPORTS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3604.m3u8
-#EXTINF:-1,GOLF+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3596.m3u8
-#EXTINF:-1,GOLF_CHANNEL
-http://pro.smartgotv.com:8005/live/mondher/mondher/3595.m3u8
-#EXTINF:-1,INFOSPORT+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3591.m3u8
-#EXTINF:-1,L'EQUIPE_21
-http://pro.smartgotv.com:8005/live/mondher/mondher/3590.m3u8
-#EXTINF:-1,RMC SPORT 1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3562.m3u8
-#EXTINF:-1,RMC SPORT 2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3561.m3u8
-#EXTINF:-1,RMC SPORT 3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3560.m3u8
-#EXTINF:-1,RMC SPORT 5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3559.m3u8
-#EXTINF:-1,CANAL+_SPORT_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3634.m3u8
-#EXTINF:-1,FOOT+
-http://pro.smartgotv.com:8005/live/mondher/mondher/1120.m3u8
-#EXTINF:-1,BFM_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2225.m3u8
-#EXTINF:-1,L.EQUIPE21_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1112.m3u8
-#EXTINF:-1,EQUIDIA_LIVE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1121.m3u8
-#EXTINF:-1,RMC SPORT 1 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6596.m3u8
-#EXTINF:-1,RMC SPORT 2 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6597.m3u8
-#EXTINF:-1,RMC SPORT 3 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6598.m3u8
-#EXTINF:-1,BeIN_SPORTS_1 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/684.m3u8
-#EXTINF:-1,BeIN_SPORTS_2 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/683.m3u8
-#EXTINF:-1,BeIN_SPORTS_3 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/682.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX4
-http://pro.smartgotv.com:8005/live/mondher/mondher/681.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX5
-http://pro.smartgotv.com:8005/live/mondher/mondher/680.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX6
-http://pro.smartgotv.com:8005/live/mondher/mondher/679.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX7
-http://pro.smartgotv.com:8005/live/mondher/mondher/678.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX8
-http://pro.smartgotv.com:8005/live/mondher/mondher/677.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX9
-http://pro.smartgotv.com:8005/live/mondher/mondher/676.m3u8
-#EXTINF:-1,beIN-SPORTS-MAX10
-http://pro.smartgotv.com:8005/live/mondher/mondher/675.m3u8
-#EXTINF:-1,Bein sport 1 HD
+#EXTINF: -1, Bein sport 1 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6811.m3u8
-#EXTINF:-1,Bein sport 2 HD
+
+#EXTINF: -1, Bein sport 2 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6810.m3u8
-#EXTINF:-1,Bein sport 3 HD
+
+#EXTINF: -1, Bein sport 3 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6809.m3u8
-#EXTINF:-1,Bein sport 4 HD
+
+#EXTINF: -1, Bein sport 4 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6808.m3u8
-#EXTINF:-1,Bein sport 5 HD
+
+#EXTINF: -1, Bein sport 5 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6807.m3u8
-#EXTINF:-1,Bein sport 6 HD
+
+#EXTINF: -1, Bein sport 6 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6806.m3u8
-#EXTINF:-1,Bein sport 7 HD
+
+#EXTINF: -1, Bein sport 7 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6805.m3u8
-#EXTINF:-1,Bein sport 8 HD
+
+#EXTINF: -1, Bein sport 8 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6804.m3u8
-#EXTINF:-1,Bein sport 9 HD
+
+#EXTINF: -1, Bein sport 9 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6803.m3u8
-#EXTINF:-1,Bein sport 10 HD
+
+#EXTINF: -1, Bein sport 10 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6802.m3u8
-#EXTINF:-1,Bein sport 11 HD
+
+#EXTINF: -1, Bein sport 11 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6801.m3u8
-#EXTINF:-1,Bein sport 12 HD
+
+#EXTINF: -1, Bein sport 12 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6800.m3u8
-#EXTINF:-1,VIP BEINSPORTS-NEWS
+
+#EXTINF: -1, VIP BEINSPORTS-NEWS
 http://sw.fannan.se:8000/live/zizo18040/54544452/6836.m3u8
-#EXTINF:-1,SFR SPORT 1HD
+
+#EXTINF: -1, SFR SPORT 1HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6796.m3u8
-#EXTINF:-1,SFR SPORT 2HD
+
+#EXTINF: -1, SFR SPORT 2HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6795.m3u8
-#EXTINF:-1,SFR SPORT 3HD
+
+#EXTINF: -1, SFR SPORT 3HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6794.m3u8
-#EXTINF:-1,Bein Sport 1HD FR
+
+#EXTINF: -1, Bein Sport 1HD FR
 http://sw.fannan.se:8000/live/zizo18040/54544452/6799.m3u8
-#EXTINF:-1,Bein Sport 2HD FR
+
+#EXTINF: -1, Bein Sport 2HD FR
 http://sw.fannan.se:8000/live/zizo18040/54544452/6798.m3u8
-#EXTINF:-1,Bein Sport 3HD FR
+
+#EXTINF: -1, Bein Sport 3HD FR
 http://sw.fannan.se:8000/live/zizo18040/54544452/6797.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 4 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 4 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6793.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 5 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 5 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6792.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 6 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 6 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6791.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 7 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 7 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6790.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 8 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 8 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6789.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 9 HD
+
+#EXTINF: -1, BEIN SPORTS MAX 9 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6788.m3u8
-#EXTINF:-1,AR Abu-Dhabi_Sports_1_HD
+
+#EXTINF: -1, AR Abu-Dhabi_Sports_1_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6770.m3u8
-#EXTINF:-1,AR Abu-Dhabi_Sports_2_HD
+
+#EXTINF: -1, AR Abu-Dhabi_Sports_2_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6769.m3u8
-#EXTINF:-1,AR:ALKASS_SPORT_1_HD
+
+#EXTINF: -1, АР: ALKASS_SPORT_1_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6765.m3u8
-#EXTINF:-1,AR:ALKASS_SPORT_2_HD
+
+#EXTINF: -1, АР: ALKASS_SPORT_2_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6764.m3u8
-#EXTINF:-1,AR:ALKASS_SPORT_3_HD
+
+#EXTINF: -1, АР: ALKASS_SPORT_3_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6763.m3u8
-#EXTINF:-1,AR:ALKASS_SPORT_4_HD
+
+#EXTINF: -1, АР: ALKASS_SPORT_4_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6762.m3u8
-#EXTINF:-1,AR: MBC_PRO_SPORT_1
+
+#EXTINF: -1, AR: MBC_PRO_SPORT_1
 http://sw.fannan.se:8000/live/zizo18040/54544452/6760.m3u8
-#EXTINF:-1,AR:MBC_PRO_SPORT_2
+
+#EXTINF: -1, АР: MBC_PRO_SPORT_2
 http://sw.fannan.se:8000/live/zizo18040/54544452/6759.m3u8
-#EXTINF:-1,AR:MBC_PRO_SPORT_3
+
+#EXTINF: -1, АР: MBC_PRO_SPORT_3
 http://sw.fannan.se:8000/live/zizo18040/54544452/6758.m3u8
-#EXTINF:-1,AR AD-SPORT1
+
+#EXTINF: -1, AR AD-SPORT1
 http://sw.fannan.se:8000/live/zizo18040/54544452/6772.m3u8
-#EXTINF:-1,AR AD-Sport2
+
+#EXTINF: -1, AR AD-Sport2
 http://sw.fannan.se:8000/live/zizo18040/54544452/6771.m3u8
-#EXTINF:-1,IT: SKY SPORT 1 HD
+
+#EXTINF: -1, IT: SKY SPORT 1 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/8089.m3u8
-#EXTINF:-1,IT: SKY SPORT 2
+
+#EXTINF: -1, IT: SKY SPORT 2
 http://sw.fannan.se:8000/live/zizo18040/54544452/8088.m3u8
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://sw.fannan.se:8000/live/zizo18040/54544452/8087.m3u8
-#EXTINF:-1,IT: SKY SPORT 3 HD
-http://sw.fannan.se:8000/live/zizo18040/54544452/8086.m3u8
-#EXTINF:-1,DE:SKY_SPORT_1_HD
-http://sw.fannan.se:8000/live/zizo18040/54544452/8059.m3u8
-#EXTINF:-1,DE:SKY_SPORT_2_HD
+
+#EXTINF: -1, DE: SKY_SPORT_2_HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/8060.m3u8
-#EXTINF:-1,DE:Sky_Sport_News
+
+#EXTINF: -1, DE: Sky_Sport_News
 http://sw.fannan.se:8000/live/zizo18040/54544452/8061.m3u8
-#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+
+#EXTINF: -1, NL: Fox Sports 1 Eredivisie HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/7892.m3u8
-#EXTINF:-1,NL: Fox sports 2
+
+#EXTINF: -1, NL: Фокс-спорт 2
 http://sw.fannan.se:8000/live/zizo18040/54544452/7891.m3u8
-#EXTINF:-1,NL: Fox sports 3
+
+#EXTINF: -1, NL: Фокс-спорт 3
 http://sw.fannan.se:8000/live/zizo18040/54544452/7890.m3u8
-#EXTINF:-1,NL: Fox sports 4
+
+#EXTINF: -1, NL: Фокс-спорт 4
 http://sw.fannan.se:8000/live/zizo18040/54544452/7889.m3u8
-#EXTINF:-1,NL: Fox Sports 6
+
+#EXTINF: -1, NL: Fox Sports 6
 http://sw.fannan.se:8000/live/zizo18040/54544452/7903.m3u8
-#EXTINF:-1,beIN SPORTS HABER HD
+
+#EXTINF: -1, beIN SPORTS HABER HD
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1322.m3u8
-#EXTINF:-1,S SPORT
+
+#EXTINF: -1, S SPORT
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1041.m3u8
-#EXTINF:-1,SMART SPOR 1
+
+#EXTINF: -1, SMART SPOR 1
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1014.m3u8
-#EXTINF:-1,SMART SPOR 2
+
+#EXTINF: -1, SMART SPOR 2
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1018.m3u8
-#EXTINF:-1,TIVIBU SPOR 1
+
+#EXTINF: -1, TIVIBU SPOR 1
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1019.m3u8
-#EXTINF:-1,TIVIBU SPOR 2
+
+#EXTINF: -1, TIVIBU SPOR 2
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1020.m3u8
-#EXTINF:-1,TIVIBU SPOR 3
+
+#EXTINF: -1, TIVIBU SPOR 3
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1021.m3u8
-#EXTINF:-1,TIVIBU SPOR 4
+
+#EXTINF: -1, TIVIBU SPOR 4
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1022.m3u8
-#EXTINF:-1,Sport Plus (BG)
+
+#EXTINF: -1, Sport Plus (BG)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1003.m3u8
-#EXTINF:-1,Diema Sport 1 (BG)
+
+#EXTINF: -1, Diema Sport 1 (BG)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/864.m3u8
-#EXTINF:-1,Diema Sport 2 (BG)
+
+#EXTINF: -1, Diema Sport 2 (BG)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/865.m3u8
-#EXTINF:-1,C More Golf (SV)
+
+#EXTINF: -1, C More Golf (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/597.m3u8
-#EXTINF:-1,C More Fotboll (SV)
+
+#EXTINF: -1, C Больше Fotboll (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/728.m3u8
-#EXTINF:-1,C More Live 1 (SV)
+
+#EXTINF: -1, C Больше Live 1 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/614.m3u8
-#EXTINF:-1,C More Live 2 (SV)
+
+#EXTINF: -1, C Больше Live 2 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/41.m3u8
-#EXTINF:-1,C More Live 3 (SV)
+
+#EXTINF: -1, C Больше Live 3 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/42.m3u8
-#EXTINF:-1,C More Live 4 (SV)
+
+#EXTINF: -1, C Больше Live 4 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/43.m3u8
-#EXTINF:-1,Eurosport 2 (SV)
+
+#EXTINF: -1, Eurosport 2 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/811.m3u8
-#EXTINF:-1,Eurosport 1 (SV)
+
+#EXTINF: -1, Eurosport 1 (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/651.m3u8
-#EXTINF:-1,Viasat Motor (SV)
+
+#EXTINF: -1, Viasat Motor (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/412.m3u8
-#EXTINF:-1,Viasat Golf (SV)
+
+#EXTINF: -1, Viasat Golf (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/680.m3u8
-#EXTINF:-1,Viasat Fight Sports (SV)
+
+#EXTINF: -1, Viasat Fight Sports (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/888.m3u8
-#EXTINF:-1,Sportkanalen (SV)
+
+#EXTINF: -1, Sportkanalen (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/615.m3u8
-#EXTINF:-1,TV3 Sport (SV)
+
+#EXTINF: -1, TV3 Sport (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/911.m3u8
-#EXTINF:-1,C More Sport (SV)
+
+#EXTINF: -1, C Больше спорта (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/626.m3u8
-#EXTINF:-1,C More Hockey (SV)
+
+#EXTINF: -1, C Больше хоккея (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/909.m3u8
-#EXTINF:-1,Viasat Hockey (SV)
+
+#EXTINF: -1, Viasat Hockey (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/630.m3u8
-#EXTINF:-1,Viasat Fotboll (SV)
+
+#EXTINF: -1, Viasat Fotboll (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/411.m3u8
-#EXTINF:-1,Viasat Sport (SV)
+
+#EXTINF: -1, Viasat Sport (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/410.m3u8
-#EXTINF:-1,Viasat Sport Premium (SV)
+
+#EXTINF: -1, Viasat Sport Premium (SV)
 http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/866.m3u8
-#EXTINF:-1,UK@ Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/36512.m3u8
-#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36513.m3u8
-#EXTINF:-1,UK@ Sky Sports Premier League HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/36514.m3u8
-#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/13633.m3u8
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/12451.m3u8
-#EXTINF:-1,UK@ Sky Sports Football(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36511.m3u8
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37400.m3u8
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/32881.m3u8
-#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/16599.m3u8
-#EXTINF:-1,UK@ Sky Sports F1 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/9721.m3u8
-#EXTINF:-1,UK@ Sky Sports F1(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/9722.m3u8
-#EXTINF:-1,UK@ Sky Sports Arena HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/11911.m3u8
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://izgemma.ddns.net:8000/live/chewy/chewy/9725.m3u8
-#EXTINF:-1,UK@ Sky Sports News HD (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37299.m3u8
-#EXTINF:-1,UK@Sky Sports Golf
-http://izgemma.ddns.net:8000/live/chewy/chewy/37569.m3u8
-#EXTINF:-1,UK@ Sky Sports Golf(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/32594.m3u8
-#EXTINF:-1,UK@ Sky Sports Action HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/36509.m3u8
-#EXTINF:-1,UK@ Sky Sports Action (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36510.m3u8
-#EXTINF:-1,UK@ Sky Sports Mix HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/9723.m3u8
-#EXTINF:-1,UK@ Sky Sports Mix (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/29507.m3u8
-#EXTINF:-1,UK@ Eurosport 1 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/29815.m3u8
-#EXTINF:-1,UK@ Eurosport 2 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/10763.m3u8
-#EXTINF:-1,UK@ BT Sport 1 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/36515.m3u8
-#EXTINF:-1,UK@ BT Sport 1(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/32859.m3u8
-#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37155.m3u8
-#EXTINF:-1,UK@ BT Sport 2 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/37227.m3u8
-#EXTINF:-1,UK@ BT Sport 2 (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36508.m3u8
-#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37153.m3u8
-#EXTINF:-1,UK@ BT Sport 3 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/32931.m3u8
-#EXTINF:-1,UK@ BT Sport 3 (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/32223.m3u8
-#EXTINF:-1,UK@ BT Sport Espn HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/10759.m3u8
-#EXTINF:-1,UK@ BT Sport Espn(Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/10760.m3u8
-#EXTINF:-1,MY@ .Astro Sports
-http://izgemma.ddns.net:8000/live/chewy/chewy/36505.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 1
-http://izgemma.ddns.net:8000/live/chewy/chewy/36504.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 2
-http://izgemma.ddns.net:8000/live/chewy/chewy/36503.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 3
-http://izgemma.ddns.net:8000/live/chewy/chewy/36502.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 4
-http://izgemma.ddns.net:8000/live/chewy/chewy/36501.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 5
-http://izgemma.ddns.net:8000/live/chewy/chewy/36500.m3u8
-#EXTINF:-1,MY@ .SkyNet Sports 6
-http://izgemma.ddns.net:8000/live/chewy/chewy/36499.m3u8
-#EXTINF:-1,UK@ Boxnation (Backup)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37382.m3u8
-#EXTINF:-1,UK@ Premier Sports HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/10767.m3u8
-#EXTINF:-1,UK@ Eir Sports 1 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/10765.m3u8
-#EXTINF:-1,UK@ eir Sports 2 HD
-http://izgemma.ddns.net:8000/live/chewy/chewy/37425.m3u8
-#EXTINF:-1,UK@ Motorsports TV
-http://izgemma.ddns.net:8000/live/chewy/chewy/10772.m3u8
-#EXTINF:-1,US: TSN SPORT 1
+
+#EXTINF: -1, США: TSN SPORT 1
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.m3u8
-#EXTINF:-1,US: TSN SPORT 2
+
+#EXTINF: -1, США: TSN SPORT 2
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.m3u8
-#EXTINF:-1,US: TSN SPORT 3
+
+#EXTINF: -1, США: TSN SPORT 3
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.m3u8
-#EXTINF:-1,AR: ADSport 1HD  local
+
+#EXTINF: -1, AR: ADSport 1HD местный
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7825.m3u8
-#EXTINF:-1,AR: ADSport 2HD  local
+
+#EXTINF: -1, AR: ADSport 2HD local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7826.m3u8
-#EXTINF:-1,RU: SETANTA SPORT
+
+#EXTINF: -1, RU: SETANTA SPORT
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.m3u8
-#EXTINF:-1,RU: SETANTA SPORT +
+
+#EXTINF: -1, RU: SETANTA SPORT +
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.m3u8
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11780.m3u8
-#EXTINF:-1,IT: Rai Sport 2
+
+#EXTINF: -1, IT: Rai Sport 2
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19058.m3u8
-#EXTINF:-1,IT: Sportitalia
+
+#EXTINF: -1, IT: Sportitalia
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11775.m3u8
-#EXTINF:-1,IT: Super Tennis HD
+
+#EXTINF: -1, IT: Супер Теннис HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11774.m3u8
-#EXTINF:-1,FR | Infosport+
+
+#EXTINF: -1, FR | Инфоспорт +
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/42.m3u8
-#EXTINF:-1,FR | Eurosport 1
+
+#EXTINF: -1, FR | Eurosport 1
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/33.m3u8
-#EXTINF:-1,FR | Eurosport 2
+
+#EXTINF: -1, FR | Eurosport 2
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/34.m3u8
-#EXTINF:-1,FR | RMC sport 2 HD (SFR)
+
+#EXTINF: -1, FR | RMC sport 2 HD (SFR)
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/253.m3u8
-#EXTINF:-1,FR | RMC sport 3 HD (SFR)
+
+#EXTINF: -1, FR | RMC sport 3 HD (SFR)
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3069.m3u8
-#EXTINF:-1,FR | RMC sport 4 HD (SFR)
+
+#EXTINF: -1, FR | RMC sport 4 HD (SFR)
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3248.m3u8
-#EXTINF:-1,FR | GOLF+ HD
+
+#EXTINF: -1, FR | GOLF + HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/289.m3u8
-#EXTINF:-1,FR | Equidia Live HD
+
+#EXTINF: -1, FR | Equidia Live HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1392.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 4
+
+#EXTINF: -1, FR | БЕЙН СПОРТ МАКС 4
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/353.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 5
+
+#EXTINF: -1, FR | БЕЙН СПОРТ МАКС 5
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/352.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 6
+
+#EXTINF: -1, FR | БЕЙН СПОРТ МАКС 6
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/351.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 7 HD
+
+#EXTINF: -1, FR | BEIN SPORTS MAX 7 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/494.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 8 HD
+
+#EXTINF: -1, FR | BEIN SPORTS MAX 8 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/495.m3u8
-#EXTINF:-1,FR | BEIN SPORTS MAX 9 HD
+
+#EXTINF: -1, FR | BEIN SPORTS MAX 9 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/514.m3u8
-#EXTINF:-1,FR | Golf Channel France HD
+
+#EXTINF: -1, FR | Гольф-канал Франция HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1402.m3u8
-#EXTINF:-1,Bein 3 AR HD
+
+#EXTINF: -1, Bein 3 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/122.m3u8
-#EXTINF:-1,Bein 4 AR HD
+
+#EXTINF: -1, Bein 4 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/123.m3u8
-#EXTINF:-1,Bein 5 AR HD
+
+#EXTINF: -1, Bein 5 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/124.m3u8
-#EXTINF:-1,Bein 6 AR HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/165.m3u8
-#EXTINF:-1,BEIN 7 AR HD
+
+#EXTINF: -1, BEIN 7 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/166.m3u8
-#EXTINF:-1,Bein 8 AR HD
+
+#EXTINF: -1, Bein 8 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/167.m3u8
-#EXTINF:-1,Bein 9 AR HD
+
+#EXTINF: -1, Bein 9 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/168.m3u8
-#EXTINF:-1,Bein 10 AR HD
+
+#EXTINF: -1, Bein 10 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/169.m3u8
-#EXTINF:-1,Bein 11 AR HD
+
+#EXTINF: -1, Bein 11 AR HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/170.m3u8
-#EXTINF:-1,BEIN 12 AR HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/92.m3u8
-#EXTINF:-1,Bein 12 EN
+
+#EXTINF: -1, Bein 12 EN
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/171.m3u8
-#EXTINF:-1,AR  BEIN SPORT 3 HD
+
+#EXTINF: -1, AR BEIN SPORT 3 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2878.m3u8
-#EXTINF:-1,AR  BEIN SPORT 4 HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2877.m3u8
-#EXTINF:-1,AR  BEIN SPORT 5 HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2876.m3u8
-#EXTINF:-1,AR  BEIN SPORT 6 HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2875.m3u8
-#EXTINF:-1,AR  BEIN SPORT 7 HD
+
+#EXTINF: -1, AR BEIN SPORT 7 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2874.m3u8
-#EXTINF:-1,AR  BEIN SPORT 8 HD
+
+#EXTINF: -1, AR BEIN SPORT 8 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2873.m3u8
-#EXTINF:-1,AR  BEIN SPORT 9 HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2872.m3u8
-#EXTINF:-1,AR  BEIN SPORT 10 HD
+
+#EXTINF: -1, AR BEIN SPORT 10 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2881.m3u8
-#EXTINF:-1,AR  BEIN SPORT 11 HD
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2880.m3u8
-#EXTINF:-1,(CH) TELECLUB SKY SPORT 1 HD
+
+#EXTINF: -1, (CH) TELECLUB SKY SPORT 1 HD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3156.m3u8
-#EXTINF:-1,Sky Sport24 Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/14690.m3u8
-#EXTINF:-1,Sky Sport  Uno Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/14693.m3u8
-#EXTINF:-1,Sky Sport Arena  Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/14870.m3u8
-#EXTINF:-1,Sky Sport Football Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/14869.m3u8
-#EXTINF:-1,Sky Sport NBA Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/15285.m3u8
-#EXTINF:-1,Sky Sport Golf Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/16621.m3u8
-#EXTINF:-1,Sky Sport F1 Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/13713.m3u8
-#EXTINF:-1,Sky Sport MotoGP Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/13714.m3u8
-#EXTINF:-1,Bike Channel Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/15287.m3u8
-#EXTINF:-1,Rai Sport 1 Full HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/500.m3u8
-#EXTINF:-1,Sky Sport 24HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/28.m3u8
-#EXTINF:-1,Sky Sport Uno HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/25.m3u8
-#EXTINF:-1,Sky Sport Arena  HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/30.m3u8
-#EXTINF:-1,Sky Sport Golf HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/29.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/31.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/147.m3u8
-#EXTINF:-1,Bike Channel HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/274.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/106.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/210.m3u8
-#EXTINF:-1,Supertennis HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/324.m3u8
-#EXTINF:-1,Top Calcio 24
-http://redhot.tech:80/live/Mat2/SSvfm079En/17023.m3u8
-#EXTINF:-1,Sportitalia
-http://redhot.tech:80/live/Mat2/SSvfm079En/150.m3u8
-#EXTINF:-1,Q13 AutoMoto TV
-http://redhot.tech:80/live/Mat2/SSvfm079En/8274.m3u8
-#EXTINF:-1,Unire Sat HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/13755.m3u8
-#EXTINF:-1,My Sports 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26360.m3u8
-#EXTINF:-1,My Sports 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26361.m3u8
-#EXTINF:-1,My Sports 3 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27288.m3u8
-#EXTINF:-1,My Sports 4 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27289.m3u8
-#EXTINF:-1,My Sports 5 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27290.m3u8
-#EXTINF:-1,My Sports 6 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27291.m3u8
-#EXTINF:-1,My Sports 7 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27292.m3u8
-#EXTINF:-1,My Sports 8 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/27293.m3u8
-#EXTINF:-1,Sky Sport24 SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/467.m3u8
-#EXTINF:-1,Sky Sport Uno SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/423.m3u8
-#EXTINF:-1,Sky Sport Arena  SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/466.m3u8
-#EXTINF:-1,Sky Sport Football SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/465.m3u8
-#EXTINF:-1,Sky Sport NBA SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/424.m3u8
-#EXTINF:-1,Sky Sport Golf SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/3196.m3u8
-#EXTINF:-1,Sky Sport F1 SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/426.m3u8
-#EXTINF:-1,Sky Sport MotoGP SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/453.m3u8
-#EXTINF:-1,Bike Channel SD
-http://redhot.tech:80/live/Mat2/SSvfm079En/15348.m3u8
-#EXTINF:-1,Premium Eurosport 1
-http://redhot.tech:80/live/Mat2/SSvfm079En/61.m3u8
-#EXTINF:-1,Premium Eurosport 2
-http://redhot.tech:80/live/Mat2/SSvfm079En/60.m3u8
-#EXTINF:-1,((DE)) Sky Sport 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/36541.m3u8
-#EXTINF:-1,((DE)) Eurosport 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26933.m3u8
-#EXTINF:-1,((DE)) Eurosport 2
-http://redhot.tech:80/live/Mat2/SSvfm079En/26930.m3u8
-#EXTINF:-1,(DE) Eurosport 2 Extra
-http://redhot.tech:80/live/Mat2/SSvfm079En/27069.m3u8
-#EXTINF:-1,(DE) Motorvision TV
-http://redhot.tech:80/live/Mat2/SSvfm079En/26934.m3u8
-#EXTINF:-1,(DE) Sky Sport 1 FHD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26956.m3u8
-#EXTINF:-1,(DE) Sky Sport 2 FHD
-http://redhot.tech:80/live/Mat2/SSvfm079En/26955.m3u8
-#EXTINF:-1,(FR) BEIN SPORT 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/36082.m3u8
-#EXTINF:-1,(FR) BEIN SPORT 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/36081.m3u8
-#EXTINF:-1,(FR) BEIN SPORT 3 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/36080.m3u8
-#EXTINF:-1,(FR) BFM SPORT
-http://redhot.tech:80/live/Mat2/SSvfm079En/36076.m3u8
-#EXTINF:-1,(FR) INFOSPORT
-http://redhot.tech:80/live/Mat2/SSvfm079En/36077.m3u8
-#EXTINF:-1,(FR) L EQUIPE 21 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/36073.m3u8
-#EXTINF:-1,(NL) Eurosport 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35998.m3u8
-#EXTINF:-1,(NL) Eurosport 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35997.m3u8
-#EXTINF:-1,(NL) Extreme Sports
-http://redhot.tech:80/live/Mat2/SSvfm079En/35996.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 1 EREDIVISIE HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35984.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 2 INTERNATIONAL
-http://redhot.tech:80/live/Mat2/SSvfm079En/35983.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 3 EREDIVISIE
-http://redhot.tech:80/live/Mat2/SSvfm079En/35982.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 4 INTERNATIONAL
-http://redhot.tech:80/live/Mat2/SSvfm079En/35981.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 5 EREDIVISIE HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35980.m3u8
-#EXTINF:-1,(NL) FOX SPORTS 6 INTERNATIONAL
-http://redhot.tech:80/live/Mat2/SSvfm079En/35979.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 1
-http://redhot.tech:80/live/Mat2/SSvfm079En/35910.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 2
-http://redhot.tech:80/live/Mat2/SSvfm079En/35909.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT GOLF
-http://redhot.tech:80/live/Mat2/SSvfm079En/35908.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT RACING
-http://redhot.tech:80/live/Mat2/SSvfm079En/35907.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT SELECT HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35906.m3u8
-#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL
-http://redhot.tech:80/live/Mat2/SSvfm079En/35905.m3u8
-#EXTINF:-1,[CH] Teleclub Sport 1
-http://redhot.tech:80/live/Mat2/SSvfm079En/435.m3u8
-#EXTINF:-1,[CH] Teleclub Sport 2
-http://redhot.tech:80/live/Mat2/SSvfm079En/434.m3u8
-#EXTINF:-1,(ES) Barca TV
-http://redhot.tech:80/live/Mat2/SSvfm079En/35403.m3u8
-#EXTINF:-1,(ES) Bein Sports HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35402.m3u8
-#EXTINF:-1,(ES) Bein Sports La Liga HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35401.m3u8
-#EXTINF:-1,(PT) SPORT TV
-http://redhot.tech:80/live/Mat2/SSvfm079En/35304.m3u8
-#EXTINF:-1,(PT) SPORT TV 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35303.m3u8
-#EXTINF:-1,(PT) SPORT TV 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35302.m3u8
-#EXTINF:-1,(PT) SPORT TV 3 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35301.m3u8
-#EXTINF:-1,(PT) SPORT TV 4 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35300.m3u8
-#EXTINF:-1,(PT) SPORT TV 5 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/35299.m3u8
-#EXTINF:-1,(PT) SPORTING TV
-http://redhot.tech:80/live/Mat2/SSvfm079En/35295.m3u8
-#EXTINF:-1,(RS) Arena Sport 1
-http://redhot.tech:80/live/Mat2/SSvfm079En/33746.m3u8
-#EXTINF:-1,(RS) Arena Sport 3
-http://redhot.tech:80/live/Mat2/SSvfm079En/33744.m3u8
-#EXTINF:-1,(RS) Arena Sport 4
-http://redhot.tech:80/live/Mat2/SSvfm079En/33743.m3u8
-#EXTINF:-1,(PL) Polsat Sport Extra HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/33798.m3u8
-#EXTINF:-1,(PL) Polsat Sport HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/33797.m3u8
-#EXTINF:-1,(BG) DIEMA SPORT 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34020.m3u8
-#EXTINF:-1,(BG) Diema Sport 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34019.m3u8
-#EXTINF:-1,(BG) Diema Sport HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34021.m3u8
-#EXTINF:-1,(RO) Digi Sport 1
-http://redhot.tech:80/live/Mat2/SSvfm079En/33850.m3u8
-#EXTINF:-1,(RO) Digi Sport 2
-http://redhot.tech:80/live/Mat2/SSvfm079En/33849.m3u8
-#EXTINF:-1,(RO) Digi Sport 3
-http://redhot.tech:80/live/Mat2/SSvfm079En/33848.m3u8
-#EXTINF:-1,(RO) Digi Sport 4
-http://redhot.tech:80/live/Mat2/SSvfm079En/33847.m3u8
-#EXTINF:-1,(AR) beIN Sport News
-http://redhot.tech:80/live/Mat2/SSvfm079En/34266.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 1 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34209.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 10 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34200.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 11 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34199.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 2 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34208.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 3 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34207.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 5 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34205.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 6 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34204.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 7 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34203.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 8 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34202.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 9 HD
-http://redhot.tech:80/live/Mat2/SSvfm079En/34201.m3u8
-
-
