@@ -37,7 +37,15 @@ http://54.36.168.168:8000/live/zizo18040/54544452/6802.m3u8
 
 #EXTINF: -1, Bein sport 11 HD
 http://54.36.168.168:8000/live/zizo18040/54544452/6801.m3u8
+#EXTINF:-1,Eleven Sports 1 HD PL
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/15198.m3u8
+#EXTINF:-1,Eleven Sports 3 FHD PL
 
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/15198.m3u8
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/15197.m3u8
+#EXTINF:-1,bein la liga
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
 #EXTINF: -1, Bein sport 12 HD
 http://sw.fannan.se:8000/live/zizo18040/54544452/6800.m3u8
 
