@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,BeIN SPORT HD4
 http://iptv-janberyan.com:25461/live/JanBeryan_2i8p64z4/4k26yq23/5.m3u8
-
+#EXTINF: -1, BeIN SPORT  HD1
 http://iptv-janberyan.com:25461/live/JanBeryan_2i8p64z4/4k26yq23/2.m3u8
 
 #EXTINF:-1,BeIN SPORT HD2
